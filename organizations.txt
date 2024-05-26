@@ -1,0 +1,257 @@
+organization	category	sector	subsector	revenue or assets	rank	location	notes
+Wal-Mart Stores	Corporation	non-financial	retail	$408,214M	1		
+Exxon Mobil	Corporation	non-financial	energy	$284,650M	2		
+Chevron	Corporation	non-financial	energy	$163,527M	3		
+General Electric	Corporation	non-financial	industrial	$156,779M	4		
+Bank of America Corp.	Corporation	financial	bank	$150,450M	5		
+ConocoPhillips	Corporation	non-financial	energy	$139,515M	6		
+AT&T	Corporation	non-financial	media/communications	$123,018M	7		
+Ford Motor	Corporation	non-financial	industrial	$118,308M	8		
+J.P. Morgan Chase & Co.	Corporation	financial	bank	$115,632M	9		
+Hewlett-Packard	Corporation	non-financial	technology	$114,552M	10		
+Berkshire Hathaway	Corporation	non-financial	holding	$112,493M	11		
+Citigroup	Corporation	financial	bank	$108,785M	12		
+Verizon Communications	Corporation	non-financial	media/communications	$107,808M	13		
+McKesson	Corporation	non-financial	pharmaceutical	$106,632M	14		
+General Motors	Corporation	non-financial	industrial	$104,589M	15		
+American International Group	Corporation	financial	insurance	$103,189M	16		
+Cardinal Health	Corporation	non-financial	healthcare	$99,613M	17		
+CVS Caremark	Corporation	non-financial	healthcare	$98,729M	18		
+Wells Fargo	Corporation	financial	bank	$98,636M	19		
+IBM	Corporation	non-financial	technology	$95,758M	20		
+UnitedHealth Group	Corporation	non-financial	healthcare	$87,138M	21		
+Procter & Gamble	Corporation	non-financial	consumer products	$79,697M	22		
+Kroger	Corporation	non-financial	retail	$76,733M	23		
+AmerisourceBergen	Corporation	non-financial	pharmaceutical	$71,789M	24		
+Costco Wholesale	Corporation	non-financial	retail	$71,422M	25		
+Valero Energy	Corporation	non-financial	energy	$70,035M	26		
+Archer Daniels Midland	Corporation	non-financial	food/agriculture	$69,207M	27		
+Boeing	Corporation	non-financial	industrial	$68,281M	28		
+Home Depot	Corporation	non-financial	retail	$66,176M	29		
+Target	Corporation	non-financial	retail	$65,357M	30		
+Wellpoint	Corporation	non-financial	healthcare	$65,028M	31		
+Walgreen	Corporation	non-financial	retail	$63,335M	32		
+Johnson & Johnson	Corporation	non-financial	consumer products	$61,897M	33		
+State Farm	Corporation	financial	insurance	$61,480M	34		
+Medco Health Solutions	Corporation	non-financial	healthcare	$59,804M	35		
+Microsoft	Corporation	non-financial	technology	$58,437M	36		
+United Technologies	Corporation	non-financial	industrial	$52,920M	37		
+Dell	Corporation	non-financial	technology	$52,902M	38		
+Goldman Sachs Group	Corporation	financial	bank	$51,673M	39		
+Pfizer	Corporation	non-financial	industrial	$50,009M	40		
+Marathon Oil	Corporation	non-financial	energy	$49,403M	41		
+Lowe's	Corporation	non-financial	retail	$47,220M	42		
+United Parcel Service	Corporation	non-financial	transportation	$45,297M	43		
+Lockheed Martin	Corporation	non-financial	industrial	$45,189M	44		
+Best Buy	Corporation	non-financial	retail	$45,015M	45		
+Dow Chemical	Corporation	non-financial	industrial	$44,945M	46		
+Supervalu	Corporation	non-financial	retail	$44,564M	47		
+Sears Holdings	Corporation	non-financial	retail	$44,043M	48		
+International Assets Holding	Corporation	non-financial	holding	$43,604M	49		
+PepsiCo	Corporation	non-financial	food/agriculture	$43,232M	50		
+MetLife	Corporation	financial	insurance	$41,098M	51		
+Safeway	Corporation	non-financial	retail	$40,851M	52		
+Kraft Foods	Corporation	non-financial	food/agriculture	$40,386M	53		
+Freddie Mac	Corporation	financial	bank	$37,614M	54		
+Sysco	Corporation	non-financial	food/agriculture	$36,853M	55		
+Apple	Corporation	non-financial	technology	$36,537M	56		
+Walt Disney	Corporation	non-financial	media/communications	$36,149M	57		
+Cisco Systems	Corporation	non-financial	technology	$36,117M	58		
+Comcast	Corporation	non-financial	media/communications	$35,756M	59		
+FedEx	Corporation	non-financial	transportation	$35,497M	60		
+Northrop Grumman	Corporation	non-financial	industrial	$35,291M	61		
+Intel	Corporation	non-financial	technology	$35,127M	62		
+Aetna	Corporation	financial	insurance	$34,764M	63		
+New York Life	Corporation	financial	insurance	$34,014M	64		
+Prudential Financial	Corporation	financial	insurance	$32,688M	65		
+Caterpillar	Corporation	non-financial	industrial	$32,396M	66		
+Sprint Nextel	Corporation	non-financial	media/communications	$32,260M	67		
+Allstate	Corporation	financial	insurance	$32,013M	68		
+General Dynamics	Corporation	non-financial	industrial	$31,981M	69		
+Morgan Stanley	Corporation	financial	bank	$31,515M	70		
+Liberty Mutual Insurance Group	Corporation	financial	insurance	$31,094M	71		
+Coca-Cola	Corporation	non-financial	food/agriculture	$30,990M	72		
+Humana	Corporation	financial	insurance	$30,960M	73		
+Honeywell International	Corporation	non-financial	industrial	$30,908M	74		
+Abbott Laboratories	Corporation	non-financial	industrial	$30,765M	75		
+News Corp.	Corporation	non-financial	media/communications	$30,423M	76		
+HCA	Corporation	non-financial	healthcare	$30,052M	77		
+Sunoco	Corporation	non-financial	energy	$29,630M	78		
+Hess	Corporation	non-financial	energy	$29,569M	79		
+Ingram Micro	Corporation	non-financial	technology	$29,515M	80		
+Fannie Mae	Corporation	financial	bank	$29,065M	81		
+Time Warner	Corporation	non-financial	media/communications	$28,842M	82		
+Johnson Controls	Corporation	non-financial	industrial	$28,497M	83		
+Delta Air Lines	Corporation	non-financial	transportation	$28,063M	84		
+Merck	Corporation	non-financial	pharmaceutical	$27,428M	85		
+DuPont	Corporation	non-financial	industrial	$27,328M	86		
+Tyson Foods	Corporation	non-financial	food/agriculture	$27,165M	87		
+American Express	Corporation	financial	bank	$26,730M	88		
+Rite Aid	Corporation	non-financial	retail	$26,290M	89		
+TIAA-CREF	Corporation	financial	insurance	$26,278M	90		
+CHS	Corporation	non-financial	food/agriculture	$25,730M	91		
+Enterprise GP Holdings	Corporation	non-financial	energy	$25,511M	92		
+Massachusetts Mutual Life Insurance	Corporation	financial	insurance	$25,424M	93		
+Philip Morris International	Corporation	non-financial	food/agriculture	$25,035M	94		
+Raytheon	Corporation	non-financial	industrial	$24,881M	95		
+Express Scripts	Corporation	non-financial	healthcare	$24,749M	96		
+Hartford Financial Services	Corporation	financial	insurance	$24,701M	97		
+Travelers Cos.	Corporation	financial	insurance	$24,680M	98		
+Publix Super Markets	Corporation	non-financial	retail	$24,515M	99		
+Amazon.com	Corporation	non-financial	technology	$24,509M	100		
+Staples	Corporation	non-financial	retail	$24,276M	101		
+Google	Corporation	non-financial	technology	$23,651M	102		
+Macy's	Corporation	non-financial	retail	$23,489M	103		
+International Paper	Corporation	non-financial	industrial	$23,366M	104		
+Oracle	Corporation	non-financial	technology	$23,252M	105		
+3M	Corporation	non-financial	industrial	$23,123M	106		
+Deere	Corporation	non-financial	industrial	$23,112M	107		
+McDonald's	Corporation	non-financial	retail	$22,745M	108		
+Tech Data	Corporation	non-financial	technology	$22,100M	109		
+Motorola	Corporation	non-financial	technology	$22,063M	110		
+Fluor	Corporation	non-financial	industrial	$21,990M	111		
+Eli Lilly	Corporation	non-financial	pharmaceutical	$21,836M	112		
+Coca-Cola Enterprises	Corporation	non-financial	food/agriculture	$21,645M	113		
+Bristol-Myers Squibb	Corporation	non-financial	pharmaceutical	$21,634M	114		
+Northwestern Mutual	Corporation	financial	insurance	$21,603M	115		
+DirecTV Group	Corporation	non-financial	media/communications	$21,565M	116		
+Emerson Electric	Corporation	non-financial	industrial	$20,915M	117		
+Nationwide	Corporation	financial	insurance	$20,751M	118		
+TJX	Corporation	non-financial	retail	$20,288M	119		
+AMR	Corporation	non-financial	transportation	$19,917M	120		
+U.S. Bancorp	Corporation	financial	bank	$19,490M	121		
+GMAC	Corporation	financial	financial services	$19,403M	122		
+PNC Financial Services Group	Corporation	financial	bank	$19,231M	123		
+Nike	Corporation	non-financial	consumer products	$19,176M	124		
+Murphy Oil	Corporation	non-financial	energy	$19,138M	125		
+Kimberly-Clark	Corporation	non-financial	consumer products	$19,115M	126		
+Alcoa	Corporation	non-financial	industrial	$18,745M	127		
+Plains All American Pipeline	Corporation	non-financial	energy	$18,520M	128		
+Cigna	Corporation	financial	insurance	$18,414M	129		
+AFLAC	Corporation	financial	insurance	$18,254M	130		
+Time Warner Cable	Corporation	non-financial	media/communications	$17,868M	131		
+United Services Automobile Association	Corporation	financial	insurance	$17,558M	132		
+J.C. Penney	Corporation	non-financial	retail	$17,556M	133		
+Exelon	Corporation	non-financial	utility	$17,318M	134		
+Kohl's	Corporation	non-financial	retail	$17,178M	135		
+Whirlpool	Corporation	non-financial	industrial	$17,099M	136		
+Altria Group	Corporation	non-financial	food/agriculture	$16,824M	137		
+Computer Sciences	Corporation	non-financial	technology	$16,740M	138		
+Tesoro	Corporation	non-financial	energy	$16,589M	139		
+UAL/Continental Airlines	Corporation	non-financial	transportation	$16,335M	140		
+Goodyear Tire & Rubber	Corporation	non-financial	industrial	$16,301M	141		
+Avnet	Corporation	non-financial	industrial	$16,230M	142		
+Manpower	Corporation	non-financial	services	$16,039M	143		
+Capital One Financial	Corporation	financial	bank	$15,980M	144		
+Southern	Corporation	non-financial	energy	$15,743M	145		
+Health Net	Corporation	financial	insurance	$15,713M	146		
+FPL Group	Corporation	non-financial	energy	$15,643M	147		
+L-3 Communications	Corporation	non-financial	industrial	$15,615M	148		
+Constellation Energy	Corporation	non-financial	utility	$15,599M	149		
+Occidental Petroleum	Corporation	non-financial	energy	$15,531M	150		
+Colgate-Palmolive	Corporation	non-financial	consumer products	$15,327M	151		
+Xerox	Corporation	non-financial	technology	$15,179M	152		
+Dominion Resources	Corporation	non-financial	utility	$15,131M	153		
+Freeport-McMoRan Copper & Gold	Corporation	non-financial	industrial	$15,040M	154		
+General Mills	Corporation	non-financial	food/agriculture	$14,691M	155		
+AES	Corporation	non-financial	utility	$14,690M	156		
+Arrow Electronics	Corporation	non-financial	industrial	$14,684M	157		
+Halliburton	Corporation	non-financial	industrial	$14,675M	158		
+Amgen	Corporation	non-financial	industrial	$14,642M	159		
+Medtronic	Corporation	non-financial	industrial	$14,599M	160		
+Progressive	Corporation	financial	insurance	$14,564M	161		
+Gap	Corporation	non-financial	retail	$14,197M	162		
+Smithfield Foods	Corporation	non-financial	food/agriculture	$14,191M	163		
+Union Pacific	Corporation	non-financial	transportation	$14,143M	164		
+Loews	Corporation	non-financial	holding	$14,123M	165		
+EMC	Corporation	non-financial	technology	$14,026M	166		
+Burlington Northern Santa Fe	Corporation	non-financial	transportation	$14,016M	167		acquired by Berkshire Hathaway in 2009
+Coventry Health Care	Corporation	financial	insurance	$13,993M	168		
+Illinois Tool Works	Corporation	non-financial	industrial	$13,904M	169		
+Viacom	Corporation	non-financial	media/communications	$13,619M	170		
+Toys R Us	Corporation	non-financial	retail	$13,568M	171		
+American Electric Power	Corporation	non-financial	utility	$13,489M	172		
+PG&E Corp.	Corporation	non-financial	utility	$13,399M	173		
+Consolidated Edison	Corporation	non-financial	utility	$13,032M	175		
+Chubb	Corporation	financial	insurance	$13,016M	176		
+CBS	Corporation	non-financial	media/communications	$13,015M	177		
+ConAgra Foods	Corporation	non-financial	food/agriculture	$12,981M	178		
+FirstEnergy	Corporation	non-financial	utility	$12,967M	179		
+Sara Lee	Corporation	non-financial	food/agriculture	$12,881M	180		
+Duke Energy	Corporation	non-financial	utility	$12,731M	181		
+National Oilwell Varco	Corporation	non-financial	energy	$12,712M	182		
+Kellogg	Corporation	non-financial	food/agriculture	$12,575M	184		
+Baxter International	Corporation	non-financial	healthcare	$12,562M	185		
+Public Service Enterprise Group	Corporation	non-financial	utility	$12,406M	186		
+Edison International	Corporation	non-financial	utility	$12,361M	187		
+Qwest Communications	Corporation	non-financial	media/communications	$12,311M	188		
+Aramark	Corporation	non-financial	services	$12,298M	189		
+PPG Industries	Corporation	non-financial	industrial	$12,239M	190		
+Community Health Systems	Corporation	non-financial	healthcare	$12,150M	191		
+Office Depot	Corporation	non-financial	retail	$12,145M	192		
+KBR	Corporation	non-financial	industrial	$12,105M	193		
+Eaton	Corporation	non-financial	industrial	$11,873M	194		
+Dollar General	Corporation	non-financial	retail	$11,796M	195		
+Waste Management	Corporation	non-financial	transportation	$11,791M	196		
+Monsanto	Corporation	non-financial	food/agriculture	$11,740M	197		
+Omnicom Group	Corporation	non-financial	media/communications	$11,721M	198		
+Jabil Circuit	Corporation	non-financial	industrial	$11,685M	199		
+DISH Network	Corporation	non-financial	media/communications	$11,664M	200		
+TRW Automotive Holdings	Corporation	non-financial	industrial	$11,614M	201		
+Navistar International	Corporation	non-financial	industrial	$11,569M	202		
+Jacobs Engineering Group	Corporation	non-financial	services	$11,467M	203		
+World Fuel Services	Corporation	non-financial	energy	$11,295M	205		
+Nucor	Corporation	non-financial	industrial	$11,190M	206		
+Danaher	Corporation	non-financial	industrial	$11,185M	207		
+Dean Foods	Corporation	non-financial	food/agriculture	$11,158M	208		
+Oneok	Corporation	non-financial	energy	$11,112M	209		
+Liberty Global	Corporation	non-financial	media/communications	$11,110M	210		
+United States Steel	Corporation	non-financial	industrial	$11,048M	211		
+AutoNation	Corporation	non-financial	retail	$11,016M	212		
+Marriott International	Corporation	non-financial	services	$10,908M	213		
+ITT	Corporation	non-financial	media/communications	$10,905M	214		
+SAIC	Corporation	non-financial	technology	$10,847M	215		
+Yum Brands	Corporation	non-financial	retail	$10,836M	216		
+BB&T Corp.	Corporation	financial	bank	$10,818M	217		
+Cummins	Corporation	non-financial	industrial	$10,800M	218		
+Entergy	Corporation	non-financial	utility	$10,746M	219		
+Textron	Corporation	non-financial	industrial	$10,548M	220		
+Marsh & McLennan	Corporation	non-financial	services	$10,493M	221		
+US Airways Group	Corporation	non-financial	transportation	$10,458M	222		
+Texas Instruments	Corporation	non-financial	technology	$10,427M	223		
+SunTrust Banks	Corporation	financial	bank	$10,420M	224		
+Qualcomm	Corporation	non-financial	technology	$10,416M	225		
+Land O'Lakes	Corporation	non-financial	food/agriculture	$10,409M	226		
+Liberty Media	Corporation	non-financial	media/communications	$10,398M	227		
+Avon Products	Corporation	non-financial	consumer products	$10,383M	228		
+Southwest Airlines	Corporation	non-financial	transportation	$10,350M	229		
+Parker Hannifin	Corporation	non-financial	industrial	$10,309M	230		
+Mosaic	Corporation	non-financial	industrial	$10,298M	231		
+BJ's Wholesale Club	Corporation	non-financial	retail	$10,187M	232		
+H.J. Heinz	Corporation	non-financial	food/agriculture	$10,148M	233		
+Thermo Fisher Scientific	Corporation	non-financial	industrial	$10,110M	234		
+Unum Group	Corporation	financial	insurance	$10,091M	235		
+Genuine Parts	Corporation	non-financial	industrial	$10,058M	236		
+Guardian Life Ins. Co. of America	Corporation	financial	insurance	$10,041M	237		
+Peter Kiewit Sons'	Corporation	non-financial	industrial	$9,985M	238		
+Progress Energy	Corporation	non-financial	utility	$9,885M	239		
+R.R. Donnelley & Sons	Corporation	non-financial	media/communications	$9,857M	240		
+Starbucks	Corporation	non-financial	retail	$9,775M	241		
+Lear	Corporation	non-financial	industrial	$9,740M	242		
+Fifth Third Bancorp	Corporation	financial	bank	$9,450M	248		
+State Street Corp.	Corporation	financial	bank	$9,362M	249		
+Regions Financial	Corporation	financial	bank	$9,087M	254		
+Lincoln National	Corporation	financial	insurance	$9,072M	256		
+Genworth Financial	Corporation	financial	insurance	$9,069M	257		
+Principal Financial	Corporation	financial	insurance	$8,849M	266		
+Assurant	Corporation	financial	insurance	$8,701M	268		
+Bank of New York Mellon Corp.	Corporation	financial	bank	$8,345M	274		
+Discover Financial Services	Corporation	financial	financial services	$7,986M	286		
+Ameriprise Financial	Corporation	financial	insurance	$7,946M	288		
+Aon	Corporation	financial	insurance	$7,595M	298		
+Business Roundtable	Policy-Planning Group	corporate			0		
+National Association of Manufacturers	Policy-Planning Group	corporate			0		
+Brookings Institution	Policy-Planning Group	think tank			1		
+Council on Foreign Relations	Policy-Planning Group	think tank			2		
+Rockefeller Foundation	Foundation	family		$3,593M	15		
+Carnegie Corporation of New York	Foundation	family		$2,535M	24		
